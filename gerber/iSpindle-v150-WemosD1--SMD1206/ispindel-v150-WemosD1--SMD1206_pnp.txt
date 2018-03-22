@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ispindel-v150-WemosD1--SMD1206
+*Date=04:58:25
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;470;1206 [SMD];5.51329;-6.72729;90;Top;470?
+2;;;11.8631;-4.72132;0;Bottom;Via12
+3;;;23.2931;-13.1033;0;Bottom;Via11
+4;;THT;45.0719;-12.784;90;Bottom;GY521
+5;;;15.5941;-13.0991;90;Bottom;DS1
+6;4.7k;1206 [SMD];31.7013;-1.67331;0;Top;4.7k?
+7;220k;1206 [SMD];31.6491;-4.9753;180;Top;220k?
+8;;;35.9931;-12.8493;0;Bottom;Hole1
+9;;;23.2931;-17.4213;0;Bottom;Via8
+10;;;26.5953;-12.8493;0;Bottom;Hole3
+11;;;18.4671;-13.1033;0;Bottom;Via10
+12;;DIP (Dual Inline) [THT];14.7082;-12.9434;0;Bottom;TP4056
+13;;;105.843;-12.8493;0;Bottom;Hole2
+14;;switch-spdt;1.78522;-13.0933;180;Bottom;U1
+15;;;60.0182;-23.1899;0;Bottom;TXT1
+16;;;16.616;-12.8491;-90;Bottom;WeMos D1 Mini1
+17;;;21.0172;-17.4041;0;Bottom;Via9
