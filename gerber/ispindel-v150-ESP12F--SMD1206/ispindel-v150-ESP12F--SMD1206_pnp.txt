@@ -1,0 +1,52 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ispindel-v150-ESP12F--SMD1206
+*Date=17:36:18
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;56.1878;-13.3949;-90;Bottom;TXT1
+2;;;34.8552;-12.0307;90;Bottom;DS1
+3;;;26.0524;-14.0398;0;Bottom;Via33
+4;4.7k;1206 [SMD];34.8023;-5.13311;90;Top;R6
+5;;switch-spdt_lock.007s;1.30237;-12.6649;0;Bottom;S1
+6;;THT;31.0724;-14.9149;90;Bottom;J1
+7;;;12.6773;-19.4147;0;Bottom;Via6
+8;;;40.0523;-24.0398;0;Bottom;Hole1
+9;;;58.3214;-12.5737;-90;Bottom;TXT2
+10;;;16.6773;-19.4147;0;Bottom;Via26
+11;;;32.3025;-5.16476;0;Bottom;Via1
+12;;;25.8023;-22.165;0;Bottom;Via27
+13;;;23.0524;-11.1648;0;Bottom;Via13
+14;;;18.6774;-19.4147;0;Bottom;Via2
+15;;;13.2778;-13.5396;-90;Top;ESP-12F
+16;;tactile-switch-1101ne;31.5274;-22.29;0;Top;PROG
+17;;;5.05845;-9.91964;0;Bottom;Via31
+18;;;22.6773;-4.03982;0;Bottom;Via16
+19;;;34.8024;-5.03974;0;Bottom;Via14
+20;;DIP (Dual Inline) [THT];13.6815;-12.6032;180;Bottom;TP4056
+21;;;29.8023;-5.16476;0;Bottom;Via12
+22;;;16.6773;-4.03982;0;Bottom;Via29
+23;470;1206 [SMD];27.3023;-10.9898;-90;Top;R1
+24;;;18.5523;-11.5399;0;Bottom;Via5
+25;10k;1206 [SMD];29.8022;-10.9898;-90;Top;R2
+26;;;39.9273;-1.91497;0;Bottom;Hole2
+27;;;15.427;-14.0373;0;Bottom;Via15
+28;10k;1206 [SMD];29.8022;-5.11477;-90;Top;R4
+29;;;14.6774;-19.4147;0;Bottom;Via3
+30;;;17.4172;-14.0999;0;Bottom;Via25
+31;;;26.0524;-18.1648;0;Bottom;Via32
+32;10k;1206 [SMD];32.3024;-5.11477;-90;Top;R5
+33;220k;1206 [SMD];27.3023;-5.11477;-90;Top;R3
+34;;tactile-switch-1101ne;31.5274;-18.1647;0;Top;RESE
+35;;;19.5523;-16.9148;0;Bottom;Via30
+36;;THT;8.78247;-3.16484;-90;Bottom;GY-521
+37;;;27.3024;-5.16476;0;Bottom;Via4
