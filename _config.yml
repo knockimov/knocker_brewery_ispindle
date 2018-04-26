@@ -2,7 +2,7 @@ title: iSpindel
 description: DIY electronic Hydrometer
 google_analytics: UA-114587576-1
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-mentions
