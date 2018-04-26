@@ -70,7 +70,7 @@ char my_url[TKIDSIZE];
 char my_db[TKIDSIZE] = "ispindel";
 char my_job[TKIDSIZE] = "ispindel";
 char my_instance[TKIDSIZE] = "000";
-char my_polynominal[70] = "-0.00031*tilt^2+0.557*tilt-14.054";
+char my_polynominal[70] = "0.004461909*tilt^2-0.063583024*tilt-1.252533981";
 
 String my_ssid;
 String my_psk;
